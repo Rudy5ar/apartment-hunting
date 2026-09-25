@@ -1,0 +1,11 @@
+poll_seconds: 45
+filters:
+  city: novi sad
+  structures: [jednosoban, jednoiposoban]
+  max_rent_eur: 350
+  neighborhoods: [grbavica, "liman 3", "liman 4"]
+sites:
+  - { id: fourzida, enabled: true }
+  - { id: halooglasi, enabled: false }
+  - { id: nekretnine, enabled: false }
+  - { id: cityexpert, enabled: false }
