@@ -7,5 +7,4 @@ filters:
 sites:
   - { id: fourzida, enabled: true }
   - { id: halooglasi, enabled: false }
-  - { id: nekretnine, enabled: false }
   - { id: cityexpert, enabled: false }
